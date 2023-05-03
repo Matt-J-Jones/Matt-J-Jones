@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-j-jones&langs_count=10&layout=compact)
 
