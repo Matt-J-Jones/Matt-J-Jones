@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-j-jones&langs_count=10&layout=compact&theme=dracula&hide=HLSL,ShaderLab)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-j-jones&langs_count=5&layout=donut&card_width=300&theme=dracula&hide=HLSL,ShaderLab) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-j-jones&show_icons=true&card_width=300&line_height=29&theme=dracula)
