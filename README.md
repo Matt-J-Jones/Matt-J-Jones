@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">I'm a junior software developer, creative coder, and game designer from London</h3>
+<h3 align="center">I'm a software developer, creative coder, and game designer from London</h3>
 
 - 🔭 I have recently graduated from the Makers Academy software development bootcamp
 - 🌱 I'm currently improving my Javascript & React skills and looking to learn C# and .Net
