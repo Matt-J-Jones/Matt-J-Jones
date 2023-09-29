@@ -14,5 +14,4 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-j-jones&langs_count=5&layout=donut&theme=dracula&hide=HLSL,ShaderLab" alt="Top Langs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt-j-jones&theme=dracula&hide_border=false" alt="Streak Stats">
 </div>
