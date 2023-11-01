@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">I'm a software developer, creative coder, and game designer from London</h3>
 
-- 🔭 I have recently graduated from the Makers Academy software development bootcamp
-- 🌱 I'm currently improving my Javascript & React skills and looking to learn C# and .Net
+- 🔭 I have recently completed the Makers Academy full stack software development bootcamp
+- 👨‍🎓 Goldsmiths Independent Games and Playable Experience Design MA graduate (first class)
+- 🌱 I'm currently improving my Javascript & C# skills and looking to learn Python
   
 - 👨‍💻 All of my projects are available at [mttjns.co.uk](http://www.mttjns.co.uk)
 - 📫 Email me at **hello@mttjns.co.uk**
