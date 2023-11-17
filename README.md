@@ -16,3 +16,17 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-j-jones&langs_count=5&layout=donut&theme=dracula&hide=HLSL,ShaderLab" alt="Top Langs">
 </div>
+
+<details>
+  <summary>My Projects</summary>
+  
+| Name                         | Description       | Tech/tools        | Link |
+| ---------------------------- | ----------------- | ----------------- | ----- |
+| **The London Underground Orchestra** | A front-end web application utilising the TfL API to transform live train arrival data into an engaging and interactive audio and visual experience. The train arrival information called from the API is sonified and mapped to the underground network, where notes have been assigned to each station and instruments to each of the lines | Javascript, Tone.js, React, Node | [Live Site](https://lupo.onrender.com/) |   
+| **Moangoose** | A Facebook-like full-stack CRUD web application that allows users to create accounts, post 'moans' and post comments on other ‘moans’. The information is stored on a linked database that stores user information, posts, and comments. | Javascript, MongoDB, Express, React, Node | [Github Repo](https://github.com/Matt-J-Jones/moangoose-MERN) |
+| **LairBnB** | An AirBnB-Style full stack web application built in Ruby and Sinatra which allows users to create and list spaces, and to request bookings on listed spaces. | Ruby, Sinatra, Postgres,  SQL, RSpec | [Github Repo](https://github.com/pablisch/lair-bnb) |
+|**Storyteller Dice**| A frontend web application that blends random probability with AI language generation. It dynamically generates six captivating images from a diverse pool of thirty-six options and leverages the GPT3.5 API to craft unique stories based on the selected images. | Javascript, JSX, React, GPT3.5 Generative Text, REST API | [Github Repo](https://github.com/Matt-J-Jones/story-dice) |
+| **Me, The Machine, and Edgar** | Unity 2D Game Project in which I collaborated with a machine learning model I trained on the complete works of Edgar Allan Poe. Using the model as a collaborative partner, I created a new and unique story experience based on the works of Poe. This project aimed to provoke discussion on the concept of authorship in the era of artificial intelligence. | C#, Javascript, Python, Unity, ML5.js, P5.js, Style Transfer, Generative Text, WebGL | [Project Page](https://mttjns.co.uk/Me-The-Machine-and-Edgar) |
+| **Bruno** | A physical computing project exploring anthropomorphism, using Arduino and C++ I created a small ‘robot’ that displays the symptoms of social anxieties. The aim of the project was to analyse why people attach human emotions and feelings to objects that, outwardly, display no human features. The project was displayed at the Goldsmiths ‘Mung’ midterm show. | C++, Arduino, Physical Computing | [Project Page](https://mttjns.co.uk/Bruno) |
+| **Self Portrait** | A creative computing piece written in C++ using OpenFrameworks, where a digitally generated random  'noise' pattern serves as a digital mirror to explore the relationship between the artist and their art. This project questions the conventional roles by reversing the artist's position, as they become a medium through which the computer creates the final artwork. | C++, OpenFrameworks | [Project Page](https://mttjns.co.uk/SelfPortrait) |
+</details>
