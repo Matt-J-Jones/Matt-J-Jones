@@ -3,7 +3,6 @@
 
 - 🔭 I have recently completed the Makers Academy full stack software development bootcamp
 - 👨‍🎓 Goldsmiths Independent Games and Playable Experience Design MA graduate (first class)
-- 🌱 I'm currently improving my Javascript & C# skills and looking to learn Python
   
 - 👨‍💻 All of my projects are available at [mttjns.co.uk](http://www.mttjns.co.uk)
 - ✍️ [My Dev Blog](https://mttjns.bearblog.dev/)
