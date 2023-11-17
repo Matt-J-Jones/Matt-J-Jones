@@ -6,6 +6,7 @@
 - 🌱 I'm currently improving my Javascript & C# skills and looking to learn Python
   
 - 👨‍💻 All of my projects are available at [mttjns.co.uk](http://www.mttjns.co.uk)
+- ✍️ [My Dev Blog](https://mttjns.bearblog.dev/)
 - 📫 Email me at **hello@mttjns.co.uk**
 - 📄 [My CV](https://github.com/Matt-J-Jones/CV/blob/main/MattJonesCV2023.pdf)
 - 👔 Find me on [LinkedIn](https://linkedin.com/in/mattjosephjones)
