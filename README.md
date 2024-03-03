@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [mttjns.co.uk](http://www.mttjns.co.uk)
 - ✍️ [My Dev Blog](https://mttjns.bearblog.dev/)
 - 📫 Email me at **hello@mttjns.co.uk**
-- 📄 [My CV](https://github.com/Matt-J-Jones/CV/blob/main/MattJonesCV2023.pdf)
+- 📄 [My CV](https://github.com/Matt-J-Jones/CV/)
 - 👔 Find me on [LinkedIn](https://linkedin.com/in/mattjosephjones)
   
  -  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
